@@ -208,13 +208,7 @@ $$RMP = N \times 3 \qquad RA = \sum_{i=1}^{N} \text{Pontuação}_i \qquad IRA = 
 - **Excel**: fontes de dados e base analítica
 - Git e GitHub
 
----
 
-## 🔒 Privacidade e LGPD
-
-Por envolver dados de pessoal, este repositório **não publica** dados reais. Nomes e matrículas foram substituídos por identificadores fictícios e o código do pipeline, que referencia caminhos e cadastros internos, permanece privado.
-
----
 
 ## 👤 Autor
 
